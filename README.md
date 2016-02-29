@@ -1,5 +1,5 @@
 # Google Cloud Node.js Client
-> Node.js idiomatic client for [Google Cloud Platform](https://cloud.google.com/) services.
+> Node.js idiomatic client for [Google Cloud Platform](https://cloud.google.com/) services, now with more promises!
 
 [![NPM Version](https://img.shields.io/npm/v/gcloud.svg)](https://www.npmjs.org/package/gcloud)
 [![Travis Build Status](https://travis-ci.org/GoogleCloudPlatform/gcloud-node.svg)](https://travis-ci.org/GoogleCloudPlatform/gcloud-node/)
