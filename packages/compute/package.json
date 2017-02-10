@@ -1,6 +1,6 @@
 {
   "name": "@google-cloud/compute",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "author": "Google Inc.",
   "description": "Google Compute Engine Client Library for Node.js",
   "contributors": [
@@ -50,7 +50,7 @@
     "compute engine"
   ],
   "dependencies": {
-    "@google-cloud/common": "^0.12.0",
+    "@google-cloud/common": "^0.12.1",
     "arrify": "^1.0.0",
     "async": "^2.0.1",
     "create-error-class": "^3.0.2",
