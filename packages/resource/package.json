@@ -50,7 +50,7 @@
     "resource"
   ],
   "dependencies": {
-    "@google-cloud/common": "^0.12.1",
+    "@google-cloud/common": "7.0.0",
     "extend": "^3.0.0",
     "is": "^3.0.1"
   },
