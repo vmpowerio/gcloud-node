@@ -1,6 +1,6 @@
 {
   "name": "@google-cloud/resource",
-  "version": "7.0.0",
+  "version": "7.0.1",
   "author": "Google Inc.",
   "description": "Google Cloud Resource Manager Client Library for Node.js",
   "contributors": [
